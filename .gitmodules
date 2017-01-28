@@ -1,0 +1,12 @@
+[submodule "challengeChessAI"]
+	path = challengeChessAI
+	url = https://github.com/hunterrees/challengeChessAI.git
+[submodule "challengeChessAndroid"]
+	path = challengeChessAndroid
+	url = https://github.com/hunterrees/challengeChessAndroid.git
+[submodule "challengeChessiOS"]
+	path = challengeChessiOS
+	url = https://github.com/hunterrees/challengeChessiOS.git
+[submodule "challengeChessServer"]
+	path = challengeChessServer
+	url = https://github.com/hunterrees/challengeChessServer.git
