@@ -10,3 +10,6 @@
 [submodule "challengeChessMachineLearning"]
 	path = challengeChessMachineLearning
 	url = https://github.com/hunterrees/challengeChessMachineLearning
+[submodule "challengeChessGameLogic"]
+	path = challengeChessGameLogic
+	url = https://github.com/hunterrees/challengeChessGameLogic.git
