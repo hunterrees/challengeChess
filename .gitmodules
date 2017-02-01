@@ -1,6 +1,3 @@
-[submodule "challengeChessAI"]
-	path = challengeChessAI
-	url = https://github.com/hunterrees/challengeChessAI.git
 [submodule "challengeChessAndroid"]
 	path = challengeChessAndroid
 	url = https://github.com/hunterrees/challengeChessAndroid.git
@@ -10,3 +7,6 @@
 [submodule "challengeChessServer"]
 	path = challengeChessServer
 	url = https://github.com/hunterrees/challengeChessServer.git
+[submodule "challengeChessMachineLearning"]
+	path = challengeChessMachineLearning
+	url = https://github.com/hunterrees/challengeChessMachineLearning
