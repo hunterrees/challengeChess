@@ -1,6 +1,6 @@
-[submodule "challengeChessMachineLearning"]
-	path = challengeChessMachineLearning
-	url = https://github.com/hunterrees/challengeChessMachineLearning.git
+[submodule "challengeChessAI"]
+	path = challengeChessAI
+	url = https://github.com/hunterrees/challengeChessAI.git
 [submodule "challengeChessAndroid"]
 	path = challengeChessAndroid
 	url = https://github.com/hunterrees/challengeChessAndroid.git
